@@ -1,0 +1,14 @@
+{
+    "name": "asep/php84",
+    "autoload": {
+        "psr-4": {
+            "Asep\\Php84\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pojok Code"
+        }
+    ],
+    "require": {}
+}
